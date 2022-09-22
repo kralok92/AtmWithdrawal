@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atm</string>
+    <string name="atm_amount">ATM Amount</string>
+    <string name="rs_100">Rs. 100</string>
+    <string name="rs_200">Rs. 200</string>
+    <string name="rs_500">Rs. 500</string>
+    <string name="rs_2000">Rs. 2000</string>
+    <string name="Rs">Rs</string>
+</resources>
